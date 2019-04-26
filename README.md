@@ -18,6 +18,8 @@ Repositório com todos os códigos e bases utilizados nos vídeos do canal, sepa
 - Vídeo: https://www.youtube.com/watch?v=IxVa3aMsueg&t=1s
 - Base: https://github.com/mateuspestana/miR/blob/master/Pokemon/poketable.RData
 - Script de raspagem do banco: https://github.com/mateuspestana/miR/blob/master/Pokemon/raspagem.R
+- Como criar um gráfico de barras? https://www.youtube.com/watch?v=m_Sxji66m-k&feature=youtu.be
+- Script do gráfico de barras: https://github.com/mateuspestana/miR/blob/master/Pokemon/graf_barra.R
 
 ## Maiores Bilheterias
 - Vídeo: https://youtu.be/vKmbbYKQTYo
@@ -26,6 +28,7 @@ Repositório com todos os códigos e bases utilizados nos vídeos do canal, sepa
 
 ## Links úteis
 - Link do canal miR: https://www.youtube.com/channel/UCFMRB9HKBysXcVq3iR9VmNA?view_as=subscriber
+- Todas as cores que vem por padrão no R: http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
 - Livro *R for Data Science*, do Hadley Wickham e Garrett Grolemund (em inglês): https://r4ds.had.co.nz/
 - R-bloggers (em inglês): https://www.r-bloggers.com/
 - Cheatsheets do R e de outros pacotes: https://github.com/rstudio/cheatsheets
