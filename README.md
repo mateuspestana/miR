@@ -5,6 +5,7 @@ Repositório com todos os códigos e bases utilizados nos vídeos do canal, sepa
 ## Index
 - [Baixando e Instalando o R](#baixando-e-instalando-o-r)
 - [Projeto Pokémon](#projeto-pokemon)
+- [Maiores Bilheterias](#maiores-bilheterias)
 - [Links úteis](#links-uteis)
 
 
@@ -18,6 +19,10 @@ Repositório com todos os códigos e bases utilizados nos vídeos do canal, sepa
 - Base: https://github.com/mateuspestana/miR/blob/master/Pokemon/poketable.RData
 - Script de raspagem do banco: https://github.com/mateuspestana/miR/blob/master/Pokemon/raspagem.R
 
+## Maiores Bilheterias
+- Vídeo: https://youtu.be/vKmbbYKQTYo
+- Base: https://github.com/mateuspestana/miR/blob/master/Maiores_Bilheterias/datafilmes.RData
+- Script de raspagem do banco: https://github.com/mateuspestana/miR/blob/master/Maiores_Bilheterias/raspagem.R
 
 ## Links úteis
 - Link do canal miR: https://www.youtube.com/channel/UCFMRB9HKBysXcVq3iR9VmNA?view_as=subscriber
