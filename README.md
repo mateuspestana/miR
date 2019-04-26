@@ -15,10 +15,10 @@ Repositório com todos os códigos e bases utilizados nos vídeos do canal, sepa
 
 
 ## Projeto Pokemon
-- Vídeo: https://www.youtube.com/watch?v=IxVa3aMsueg&t=1s
+- Vídeo: https://www.youtube.com/watch?v=IxVa3aMsuegs
 - Base: https://github.com/mateuspestana/miR/blob/master/Pokemon/poketable.RData
 - Script de raspagem do banco: https://github.com/mateuspestana/miR/blob/master/Pokemon/raspagem.R
-- Como criar um gráfico de barras? https://www.youtube.com/watch?v=m_Sxji66m-k&feature=youtu.be
+- Como criar um gráfico de barras? https://youtu.be/GI5TsHVh7V8
 - Script do gráfico de barras: https://github.com/mateuspestana/miR/blob/master/Pokemon/graf_barra.R
 
 ## Maiores Bilheterias
