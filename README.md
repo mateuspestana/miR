@@ -37,7 +37,7 @@ Repositório com todos os códigos e bases utilizados nos vídeos do canal, sepa
 - R-bloggers (em inglês): https://www.r-bloggers.com/
 - Cheatsheets do R e de outros pacotes: https://github.com/rstudio/cheatsheets
 - Criação de paletas: http://tools.medialab.sciences-po.fr/iwanthue/ 
-
+- Guia com todos os pacotes de paletas do R (em inglês): https://github.com/EmilHvitfeldt/r-color-palettes
 
 
 
