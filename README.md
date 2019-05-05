@@ -28,6 +28,8 @@ Repositório com todos os códigos e bases utilizados nos vídeos do canal, sepa
 - Vídeo: https://youtu.be/vKmbbYKQTYo
 - Base: https://github.com/mateuspestana/miR/blob/master/Maiores_Bilheterias/datafilmes.RData
 - Script de raspagem do banco: https://github.com/mateuspestana/miR/blob/master/Maiores_Bilheterias/raspagem.R
+- Como fazer um gráfico boxplot? https://youtu.be/A2m1Vy8iBSE
+- Script do gráfico boxplot: https://github.com/mateuspestana/miR/blob/master/Maiores_Bilheterias/graf_boxplot.R
 
 
 ## Links úteis
